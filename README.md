@@ -26,15 +26,7 @@ I believe great code is readable code. I prioritize:
 
 ## Current Focus
 
-I'm pursuing my Master's degree while actively taking on freelance projects and continuously expanding my full-stack capabilities. Each project is an opportunity to learn something new and deliver real value.
-
-## Let's Connect
-
-I'm always open to discussing new projects, collaboration opportunities, or just talking tech.
-
-**📧 [Your Email]**  
-**💼 [LinkedIn Profile]**  
-**🌐 [Portfolio Website]** (if you have one)
+I recently completed my Master's degree and I'm now focused on freelance development and building AI agents with libraries like LangChain. I'm exploring ways to combine my full-stack skills with AI capabilities to create smarter, more powerful solutions.
 
 ---
 
