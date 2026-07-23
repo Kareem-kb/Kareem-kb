@@ -1,33 +1,38 @@
-# Hey, I'm Kareem 👋
+# Hi, I'm Kareem Bakarbashat 👋
 
-**Frontend Developer** building responsive web experiences that users actually enjoy using.
+I'm a **Frontend / Full-Stack Developer** based in Lithuania, building responsive web applications and practical product workflows with React, Next.js, TypeScript, and Node.js.
 
-I craft modern web applications with **React** and **Next.js**, focusing on clean code, smooth UX, and solutions that solve real problems. Currently available for new opportunities and freelance projects.
+My work spans reusable interfaces, dashboards, authentication, booking systems, relational data, automated testing, and AI-assisted product development. I'm open to frontend and full-stack opportunities in Lithuania and with remote teams.
 
-## What I'm Working On
+## Selected work
 
-Right now, I'm deep into full-stack development—building everything from repair shop management systems to e-commerce platforms. I'm particularly interested in how AI can streamline project management (it's my thesis topic), and I'm always exploring ways to make web apps faster and more intuitive.
+### AI-Powered Virtual Receptionist & Booking Platform
+A multilingual product combining a React and TypeScript operations dashboard with Node.js/Express APIs, PostgreSQL and Supabase, authentication, analytics, automated tests, CI/CD, and LangChain/OpenAI integrations.
 
-## Tech I Work With
+### [Booking System](https://github.com/Kareem-kb/Booking-System)
+A multilingual appointment-booking PWA built with Next.js, React, TypeScript, Prisma, authentication, Supabase/Appwrite, internationalization, and transactional email workflows.
 
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS  
-**Backend:** Node.js • Python • FastAPI • Prisma • PostgreSQL • MySQL • MongoDB  
-**Tools:** Git • Docker • Antigravity
+### [AI Fitness](https://github.com/Kareem-kb/AI-Fitness)
+A Next.js and TypeScript application exploring AI-assisted fitness experiences and product-oriented frontend development.
 
-I'm constantly learning—currently diving deeper into Python and FastAPI for backend work, and exploring the full potential of Next.js App Router and server components.
+### [Lily](https://github.com/Kareem-kb/lily)
+A modern marketing experience built with Next.js, TypeScript, GSAP, Appwrite, and responsive interface patterns.
 
-## A Bit About My Approach
+## Technologies
 
-I believe great code is readable code. I prioritize:
-- **User experience first** — if it's confusing to use, it doesn't matter how well it's built
-- **Clean, maintainable code** — future me (and other devs) will thank present me
-- **Real-world testing** — because bugs caught early save headaches later
-- **Clear communication** — especially important when working with clients and teams
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, Tailwind CSS, GSAP
+- **Backend & data:** Node.js, Express, REST APIs, PostgreSQL, MySQL, Supabase, Prisma, Firebase, Appwrite
+- **Quality & delivery:** Vitest, Playwright, Git, GitHub, CI/CD, Jira, Agile/Scrum
+- **AI-assisted development:** LangChain/OpenAI integrations, Codex, Claude Code, Antigravity IDE
 
-## Current Focus
+## How I work
 
-I recently completed my Master's degree and I'm now focused on freelance development and building AI agents with libraries like LangChain. I'm exploring ways to combine my full-stack skills with AI capabilities to create smarter, more powerful solutions.
+- Translate product requirements and Figma designs into reusable, responsive interfaces
+- Take ownership from implementation through integration, debugging, testing, and delivery
+- Review and test AI-assisted changes before they become part of the product
+- Communicate clearly with clients, designers, and development teams
 
----
+## Connect
 
-*"The best way to predict the future is to build it." — Currently building mine, one commit at a time.*
+- [LinkedIn](https://www.linkedin.com/in/kareem-kb/)
+- [Email](mailto:thought.kb@gmail.com)
