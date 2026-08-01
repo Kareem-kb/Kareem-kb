@@ -1,38 +1,32 @@
-# Hi, I'm Kareem Bakarbashat 👋
+# Hi, I'm Kareem
 
-I'm a **Frontend / Full-Stack Developer** based in Lithuania, building responsive web applications and practical product workflows with React, Next.js, TypeScript, and Node.js.
+I'm a frontend and full stack software engineer based in Vilnius. I build software across interfaces, APIs, databases, authentication, testing, and delivery.
 
-My work spans reusable interfaces, dashboards, authentication, booking systems, relational data, automated testing, and AI-assisted product development. I'm open to frontend and full-stack opportunities in Lithuania and with remote teams.
+## Core technologies
+
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS and responsive design
+- Backend and data: Node.js, Express, REST APIs, PostgreSQL, Supabase, Prisma and authentication
+- Quality and delivery: Vitest, Playwright, Docker, GitHub Actions and CI/CD
+- Workflow: Git, GitHub, Codex, Claude Code and AI integration
 
 ## Selected work
 
-### AI-Powered Virtual Receptionist & Booking Platform
-A multilingual product combining a React and TypeScript operations dashboard with Node.js/Express APIs, PostgreSQL and Supabase, authentication, analytics, automated tests, CI/CD, and LangChain/OpenAI integrations.
-
 ### [Booking System](https://github.com/Kareem-kb/Booking-System)
-A multilingual appointment-booking PWA built with Next.js, React, TypeScript, Prisma, authentication, Supabase/Appwrite, internationalization, and transactional email workflows.
 
-### [AI Fitness](https://github.com/Kareem-kb/AI-Fitness)
-A Next.js and TypeScript application exploring AI-assisted fitness experiences and product-oriented frontend development.
+A full stack booking platform built with Next.js, TypeScript, Prisma, PostgreSQL, authentication and responsive interfaces.
 
-### [Lily](https://github.com/Kareem-kb/lily)
-A modern marketing experience built with Next.js, TypeScript, GSAP, Appwrite, and responsive interface patterns.
+### Repair Management System
 
-## Technologies
+A private full stack system for managing repair workflows and operational data.
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, Tailwind CSS, GSAP
-- **Backend & data:** Node.js, Express, REST APIs, PostgreSQL, MySQL, Supabase, Prisma, Firebase, Appwrite
-- **Quality & delivery:** Vitest, Playwright, Git, GitHub, CI/CD, Jira, Agile/Scrum
-- **AI-assisted development:** LangChain/OpenAI integrations, Codex, Claude Code, Antigravity IDE
+### AI Mind
+
+A private AI powered virtual receptionist built with React, TypeScript, Node.js, Express, PostgreSQL, Supabase, authentication, testing and AI integration.
 
 ## How I work
 
-- Translate product requirements and Figma designs into reusable, responsive interfaces
-- Take ownership from implementation through integration, debugging, testing, and delivery
-- Review and test AI-assisted changes before they become part of the product
-- Communicate clearly with clients, designers, and development teams
+I use Codex and Claude Code to research, develop and improve solutions faster. AI supports my workflow, while I make the final technical decisions and remain responsible for the code and finished product.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kareem-kb/)
-- [Email](mailto:thought.kb@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kareem-kb/)
